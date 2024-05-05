@@ -66,3 +66,22 @@ img {
 p {
     font-size: 20px;
 }
+.logo {
+    border-radius: 10%;
+    height: 100px;
+    width: 20%;
+    margin-right: 15px;
+    display: flex;
+}
+.school {
+    display: flex;
+}
+.x {
+    text-align: center;
+    width: 80%;
+    margin-left: 100px;
+}
+.y {
+    display: flex;
+    margin-left: 350px;
+}
