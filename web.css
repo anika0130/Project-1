@@ -69,7 +69,7 @@ p {
 .logo {
     border-radius: 10%;
     height: 100px;
-    width: 20%;
+    width: auto;
     margin-right: 15px;
     display: flex;
 }
